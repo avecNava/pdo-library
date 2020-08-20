@@ -1,9 +1,9 @@
-# CRUD operations on SQLITE database with PDO library
+# SQLITE CRUD operations using PHP PDO library
 
 ## Introduction 
 
 
-The PHP **Data Objects (PDO)** extension defines a lightweight, consistent interface for accessing databases in PHP. PDO provides a data-access abstraction layer, which means that, regardless of which database you're using, you use the same functions to issue queries and fetch data.
+The **PHP Data Objects (PDO)** extension defines a lightweight, consistent interface for accessing databases in PHP. PDO provides a data-access abstraction layer, which means that, regardless of which database you're using, you use the same functions to issue queries and fetch data.
 
 This library uses SQLITE file as database. The CRUD operations are based on a table called address_book. The table has the following fields.
 
